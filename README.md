@@ -8,7 +8,7 @@ The application recommends movies similar to a selected movie by analyzing movie
 
 ## 🚀 Live Demo
 
-[Add Streamlit Link Here]
+[[Add Streamlit Link Here]](https://movie-recommender-csdxtutjfry8y5rncfafn9.streamlit.app/)
 
 ---
 
